@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\obj\Debug\Chatbot_GUI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\obj\Debug\Chatbot_GUI.Properties.Resources.resources
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\obj\Debug\Chatbot_GUI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\obj\Debug\Chatbot_GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\bin\Debug\Chatbot_GUI.exe.config
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\bin\Debug\Chatbot_GUI.exe
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\bin\Debug\Chatbot_GUI.pdb
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\obj\Debug\Chatbot_GUI.exe
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\obj\Debug\Chatbot_GUI.pdb
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\obj\Debug\Chatbot_GUI.Form1.resources
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\bin\Debug\greeting.wav
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\bin\Debug\greetings.wav
+C:\Users\user\source\repos\Sikho_Nkosi_POE\Chatbot_GUI\bin\Debug\bot.png
